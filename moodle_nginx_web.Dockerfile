@@ -1,4 +1,4 @@
-FROM nginx_php-fpm:0.0.6
+FROM nginx_php-fpm:0.0.6new
 
 LABEL maintainer="Your Name <your.email@example.com>"
 
